@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deiveleal.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/deiveleal.github.io/static/js/main.8893bf11.chunk.js",
+    "main.js.map": "/deiveleal.github.io/static/js/main.8893bf11.chunk.js.map",
+    "runtime-main.js": "/deiveleal.github.io/static/js/runtime-main.a6b11a88.js",
+    "runtime-main.js.map": "/deiveleal.github.io/static/js/runtime-main.a6b11a88.js.map",
+    "static/js/2.910f4a71.chunk.js": "/deiveleal.github.io/static/js/2.910f4a71.chunk.js",
+    "static/js/2.910f4a71.chunk.js.map": "/deiveleal.github.io/static/js/2.910f4a71.chunk.js.map",
+    "static/js/3.5aaa1131.chunk.js": "/deiveleal.github.io/static/js/3.5aaa1131.chunk.js",
+    "static/js/3.5aaa1131.chunk.js.map": "/deiveleal.github.io/static/js/3.5aaa1131.chunk.js.map",
+    "index.html": "/deiveleal.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/deiveleal.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.910f4a71.chunk.js.LICENSE.txt": "/deiveleal.github.io/static/js/2.910f4a71.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deiveleal.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6b11a88.js",
+    "static/js/2.910f4a71.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8893bf11.chunk.js"
+  ]
+}
