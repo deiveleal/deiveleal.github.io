@@ -16,7 +16,7 @@ lastName = "Leal"
 phone = "1-555-555-1234"
 profileImage = "img/TechChat.png"
 showQr = false
-showContact = true
+showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
 
 
