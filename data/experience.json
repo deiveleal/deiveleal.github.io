@@ -1,8 +1,0 @@
-[
-    {
-        "role":"Data Enginner",
-        "company":"BRQ Digital Solutions",
-        "summary":"Outsourced in:\n - Itaú: Architecture and pipeline design for a Generative Artificial Intelligence training project in Chat/Virtual Assistant for answering FAQ Cards, with API data ingestion in AWS Lambda, provision of the base for consumption via DataMesh, application of a FinOps module for monitoring of costs, cleaning via python, Data Quality via AWS Glue and invoke via AWS eventbridge. Development of a near real time solution. Poc of solution architecture analysis aiming to study services to meet demand in a relationship between scalability x volume x timeliness x cost. Development, execution of unit tests, code refactoring aiming for performance and readability. Main technologies used: Python, Terraform, Pyspark, SQL, GitFlow, Github mat actions and versioning, aws s3, aws lambda, aws cloudwatch, aws eventbridge, aws sns, aws sqs, aws kinesis, aws glue and aws lake formation.\n- Next: Support of the Azure environment and data ingestion. Execution of poc with Airflow enabling the implementation of an orchestration tool through a kubernetes cluster - AKS. Analysis of error logs and implementation of monitoring logs. Code refactoring to improve performance. Main technologies used: Python, Pyspark and SQL for data manipulation. Hive, Databricks, Azure Data Lake Gen 2, and Azure Data Factory for data ingestion and storage. Release implementation mat. Code versioning via Bitbucket.",
-        "range":"July 2022 - Present"
-    }
-]
