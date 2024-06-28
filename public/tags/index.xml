@@ -6,34 +6,62 @@
     <description>Recent content in Tags on Deive Leal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 20:23:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <title>CTE</title>
+      <link>http://localhost:1313/tags/cte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>http://localhost:1313/tags/cte/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown Syntax</title>
-      <link>http://localhost:1313/tags/markdown-syntax/</link>
+      <title>Data Engineering</title>
+      <link>http://localhost:1313/tags/data-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown-syntax/</guid>
+      <guid>http://localhost:1313/tags/data-engineering/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mathjax</title>
-      <link>http://localhost:1313/tags/mathjax/</link>
+      <title>Database</title>
+      <link>http://localhost:1313/tags/database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mathjax/</guid>
+      <guid>http://localhost:1313/tags/database/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>http://localhost:1313/tags/sample/</link>
+      <title>Entrepreneurship</title>
+      <link>http://localhost:1313/tags/entrepreneurship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sample/</guid>
+      <guid>http://localhost:1313/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Tool</title>
+      <link>http://localhost:1313/tags/sql-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sql-tool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/work/</guid>
       <description></description>
     </item>
     <item>
@@ -44,10 +72,17 @@
       <description></description>
     </item>
     <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/tags/placeholder-text/</link>
+      <title>Example</title>
+      <link>http://localhost:1313/tags/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/placeholder-text/</guid>
+      <guid>http://localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://localhost:1313/tags/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sample/</guid>
       <description></description>
     </item>
   </channel>
