@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Deive Leal"
-  description: Text about my cool site
+  description: This is my presentation site with my resume and blog and projects.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo.jpg"
 
