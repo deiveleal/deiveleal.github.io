@@ -12,7 +12,6 @@ image: /images/blog_post_1.webp
 description: ""
 toc: 
 ---
-## About Entrepreneurship
 
 Entrepreneurship is such a magic word that can either change reality or, it is at least, what some people think it does. With hype words and sex meaning, many people believe that entrepreneurship it’s the key to develop or increase value in society.
 

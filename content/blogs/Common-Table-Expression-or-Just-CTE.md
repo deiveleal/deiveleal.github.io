@@ -14,7 +14,6 @@ image: /images/projects/cte/cte.jpg
 description: ""
 toc: 
 ---
-## About Entrepreneurship
 
 When I started my studies in sql to handle data from databases many things seemed confused and messed up. The use of nested queries or subqueries was kind of confusing. The longer the query is more difficult, it is to understand what it does. Consequently, its reading, debugging and maintenance are equally difficult. For instance, imagine a code with seven or more different subqueries. The limit is your imagination. But, the more subqueries you have, more business rules can be applied and, consequently, the challenge to maintain them increases. To help us with this great problem, a good option is to use common table expressions or aka cte.
 
