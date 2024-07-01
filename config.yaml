@@ -127,9 +127,9 @@ params:
     enable: true
     intro: "Hello, I'm"
     title: "Deive."
-    subtitle: "I am a data engineer and researcher."
-    content: "A curious and passionate about data engineer, cloud and researcher with a strong background in computer science and social science. I am currently working as a data engineer at [BRQ Solutions](https://www.brq.com/) in São Paulo, BR."
-    image: /me.jpg
+    subtitle: "I am a data engineer and machine learning researcher."
+    content: "A highly motivated data engineer and researcher with a passion for uncovering insights from data. My background in computer science and social science allows me to bridge the gap between technical solutions and real-world applications. Currently, I leverage this expertise as a data engineer at [BRQ Solutions](https://www.brq.com/) in São Paulo, Brazil."
+    image: /images/profile/me_updated_20240701.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -151,13 +151,10 @@ params:
 
   # About
   about:
-    enable: false
+    enable: true
     title: "About Me"
-    image: "/images/me.png"
-    content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+    image: "/images/profile/about_me.jpg"
+    content: "Data Engineer with a background in Systems Analysis and Development, Anthropology, MBA in Data Engineering, and currently pursuing a Master's degree in Technology. Expertise in developing data pipelines, data architecture, and data analysis. Member of the HUMAINA research group, Unicamp/FGCU-Florida/USP, working on multimodal machine learning. Experience in complex projects using technologies such as Python, Terraform, Pyspark, SQL, Airflow, AWS, and Azure. Holds certifications in Airflow, AWS, and Microsoft."
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -167,7 +164,7 @@ params:
         - "AWS"
         - "PySpark"
         - "Multimodal Machine Learning"
-        - "Airflow"
+        - "Terraform"
 
   # Experience
   experience:

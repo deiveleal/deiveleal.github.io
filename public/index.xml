@@ -13,14 +13,14 @@
       <link>http://localhost:1313/blogs/common-table-expression-or-just-cte/</link>
       <pubDate>Fri, 28 Jun 2024 16:00:00 +0530</pubDate>
       <guid>http://localhost:1313/blogs/common-table-expression-or-just-cte/</guid>
-      <description>About Entrepreneurship When I started my studies in sql to handle data from databases many things seemed confused and messed up. The use of nested queries or subqueries was kind of confusing. The longer the query is more difficult, it is to understand what it does. Consequently, its reading, debugging and maintenance are equally difficult. For instance, imagine a code with seven or more different subqueries. The limit is your imagination.</description>
+      <description>When I started my studies in sql to handle data from databases many things seemed confused and messed up. The use of nested queries or subqueries was kind of confusing. The longer the query is more difficult, it is to understand what it does. Consequently, its reading, debugging and maintenance are equally difficult. For instance, imagine a code with seven or more different subqueries. The limit is your imagination. But, the more subqueries you have, more business rules can be applied and, consequently, the challenge to maintain them increases.</description>
     </item>
     <item>
       <title>About Entrepreneurship</title>
       <link>http://localhost:1313/blogs/about-entrepreneurship/</link>
       <pubDate>Thu, 27 Jun 2024 20:23:00 +0530</pubDate>
       <guid>http://localhost:1313/blogs/about-entrepreneurship/</guid>
-      <description>About Entrepreneurship Entrepreneurship is such a magic word that can either change reality or, it is at least, what some people think it does. With hype words and sex meaning, many people believe that entrepreneurship it’s the key to develop or increase value in society.&#xA;It seems that people create a mythology around the entrepreneur and their performance on a regular basis. Anyone can be an entrepreneur, investing time and money and success is guaranteed.</description>
+      <description>Entrepreneurship is such a magic word that can either change reality or, it is at least, what some people think it does. With hype words and sex meaning, many people believe that entrepreneurship it’s the key to develop or increase value in society.&#xA;It seems that people create a mythology around the entrepreneur and their performance on a regular basis. Anyone can be an entrepreneur, investing time and money and success is guaranteed.</description>
     </item>
     <item>
       <title>Image Gallery</title>
