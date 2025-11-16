@@ -129,7 +129,7 @@ params:
     title: "Deive."
     subtitle: "I am a technology information architect and researcher."
     content: "A highly motivated data professional and researcher with a passion for uncovering insights from data. My background in systems analysis and social science allows me to bridge the gap between technical solutions and real-world applications. Currently, I leverage this expertise as a solutions architect at [Bradesco Bank](https://www.bradesco.com.br/) in São Paulo, Brazil."
-    image: /images/profile/me_updated_20240701.jpg
+    image: /images/profile/profile_photo_v1.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
