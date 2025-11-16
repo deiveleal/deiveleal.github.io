@@ -8,7 +8,7 @@ tags:
   - Entrepreneurship
   - Work
   - Life
-image: /images/blog_post_1.webp
+image: /images/projects/entrepreneurship/entrepreneurship.png
 description: ""
 toc: 
 ---

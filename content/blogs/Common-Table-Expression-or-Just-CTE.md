@@ -10,7 +10,7 @@ tags:
   - SQL
   - Database
   - SQL Tool
-image: /images/projects/cte/cte.jpg
+image: /images/projects/cte/gatos_cte.png
 description: ""
 toc: 
 ---

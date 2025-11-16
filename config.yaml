@@ -12,7 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination.pagerSize: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -56,7 +56,7 @@ params:
   title: "Deive Leal"
   description: This is my presentation site with my resume and blog and projects.
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/logo.jpg"
+  favicon: "/logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -127,8 +127,8 @@ params:
     enable: true
     intro: "Hello, I'm"
     title: "Deive."
-    subtitle: "I am a data engineer and machine learning researcher."
-    content: "A highly motivated data engineer and researcher with a passion for uncovering insights from data. My background in computer science and social science allows me to bridge the gap between technical solutions and real-world applications. Currently, I leverage this expertise as a data engineer at [BRQ Solutions](https://www.brq.com/) in São Paulo, Brazil."
+    subtitle: "I am a technology information architect and researcher."
+    content: "A highly motivated data professional and researcher with a passion for uncovering insights from data. My background in systems analysis and social science allows me to bridge the gap between technical solutions and real-world applications. Currently, I leverage this expertise as a solutions architect at [Bradesco Bank](https://www.bradesco.com.br/) in São Paulo, Brazil."
     image: /images/profile/me_updated_20240701.jpg
     bottomImage:
       enable: true
@@ -154,7 +154,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/profile/about_me.jpg"
-    content: "Data Engineer with a background in Systems Analysis and Development, Anthropology, MBA in Data Engineering, and currently pursuing a Master's degree in Technology. Expertise in developing data pipelines, data architecture, and data analysis. Member of the HUMAINA research group, Unicamp/FGCU-Florida/USP, working on multimodal machine learning. Experience in complex projects using technologies such as Python, Terraform, Pyspark, SQL, Airflow, AWS, and Azure. Holds certifications in Airflow, AWS, and Microsoft."
+    content: "Professional with a background in Systems Analysis and Development, Anthropology, MBA in Data Engineering, Master's degree in Technology and specialization in data architecture. Expertise in design systems, developing data solutions, data architecture, and data analysis. Member of the HUMAINA research group, Unicamp/FGCU-Florida/USP, working on multimodal machine learning. Experience in complex projects using technologies such as Python, Terraform, Pyspark, SQL, Airflow, AWS, and Azure. Holds certifications in Airflow, AWS, and Microsoft."
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
