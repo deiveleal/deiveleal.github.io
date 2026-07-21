@@ -1,0 +1,27 @@
+# ---- Hugo ----
+# Saída da build (gerada pela CI a cada deploy — nunca versionar)
+/public/
+# Cache de recursos processados do Hugo (imagens, SASS, etc.)
+/resources/
+# Lock de build e estatísticas geradas
+.hugo_build.lock
+hugo_stats.json
+
+# ---- Dart Sass / assets processados ----
+.sass-cache/
+
+# ---- Node (caso adicione ferramentas de build no futuro) ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---- Ferramentas locais / IDE / agente ----
+/.claude/
+.vscode/
+.idea/
+
+# ---- Sistema operacional ----
+.DS_Store
+Thumbs.db
+*~
+*.swp
