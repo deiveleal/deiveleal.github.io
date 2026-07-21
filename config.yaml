@@ -1,5 +1,5 @@
 baseURL: "https://deiveleal.de"
-languageCode: "en-us"
+locale: "en-us"
 title: "Deive Leal"
 theme: hugo-profile
 
