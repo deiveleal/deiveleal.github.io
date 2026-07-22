@@ -121,7 +121,7 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
+      disableProjects: true
       disableAchievements: false
       disableContact: false
 
@@ -130,8 +130,8 @@ params:
     enable: true
     intro: "Hello, I'm"
     title: "Deive."
-    subtitle: "I am a technology information architect and researcher."
-    content: "A highly motivated data professional and researcher with a passion for uncovering insights from data. My background in systems analysis and social science allows me to bridge the gap between technical solutions and real-world applications. Currently, I leverage this expertise as a solutions architect at [Bradesco Bank](https://www.bradesco.com.br/) in São Paulo, Brazil."
+    subtitle: "IT & Data Architect bridging data engineering, cloud, and research."
+    content: "I'm an IT Architect at [Bradesco](https://www.bradesco.com.br/) and a Ph.D. candidate in Technology (ICT) at [Unicamp](https://www.unicamp.br/). I design data platforms and cloud solutions across AWS and Azure — from data modeling and ETL to solution architecture — pairing an engineering mindset with a background in social science. My research explores multimodal machine learning and feature selection applied to the healthcare domain."
     image: /images/profile/profile_photo_v1.jpeg
     bottomImage:
       enable: true
@@ -157,147 +157,118 @@ params:
     enable: true
     title: "About Me"
     image: "/images/profile/about_me.jpg"
-    content: "Professional with a background in Systems Analysis and Development, Anthropology, MBA in Data Engineering, Master's degree in Technology and specialization in data architecture. Expertise in design systems, developing data solutions, data architecture, and data analysis. Member of the HUMAINA research group, Unicamp/FGCU-Florida/USP, working on multimodal machine learning. Experience in complex projects using technologies such as Python, Terraform, Pyspark, SQL, Airflow, AWS, and Azure. Holds certifications in Airflow, AWS, and Microsoft."
+    content: "I work at the intersection of data engineering, architecture, and research. I hold an MSc in Technology (ICT) from Unicamp, an MBA in Data Engineering from the Polytechnic School of UFRJ, and a postgraduate degree in Data Architecture from PUC Minas — and I'm currently a Ph.D. candidate at Unicamp. My path is interdisciplinary, moving from Anthropology into data, and I'm a member of the HUMAINA research group (Unicamp / FGCU-Florida / USP), focused on multimodal machine learning. I design and deliver data solutions with Python, SQL, PySpark, Airflow, Databricks, Terraform, AWS and Azure, and I hold AWS and Microsoft Azure certifications."
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "Python"
         - "SQL"
-        - "AWS"
         - "PySpark"
-        - "Multimodal Machine Learning"
+        - "Airflow"
+        - "Databricks"
+        - "AWS"
+        - "Azure"
         - "Terraform"
+        - "Data Architecture"
+        - "Multimodal Machine Learning"
 
   # Experience
   experience:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "IT Architect"
+        company: "Bradesco"
+        companyUrl: "https://www.bradesco.com.br/"
+        date: "Mar 2025 - Present"
+        content: "Enterprise IT and solution architecture at one of Brazil's largest banks — designing and documenting solutions (C4 model) and aligning data and cloud standards across AWS and Azure."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+      - job: "Senior Data Engineer"
+        company: "BRQ Digital Solutions"
+        companyUrl: "https://www.brq.com/"
+        date: "Aug 2024 - Feb 2025"
+        content: "Led data engineering initiatives — building and evolving data pipelines, models and big data processing with Python, SQL, PySpark, Airflow and Databricks."
+
+      - job: "Data Engineer"
+        company: "BRQ Digital Solutions"
+        companyUrl: "https://www.brq.com/"
+        date: "Jul 2022 - Aug 2024"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          content: "Outsourced at Itaú Unibanco."
+        content: "Data engineering for a large financial institution — ETL/ELT pipelines, data modeling and big data workloads on Databricks, Hadoop and Hive."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      - job: "Data Engineer"
+        company: "A3Data"
+        companyUrl: "https://a3data.com.br/"
+        date: "Dec 2021 - Jul 2022"
+        content: "Data engineering consulting — pipelines, data modeling and analytics solutions on cloud platforms."
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Data Engineer"
+        company: "Accenture Brazil"
+        companyUrl: "https://www.accenture.com/br-pt"
+        date: "Apr 2021 - Nov 2021"
+        content: "Data engineering on enterprise projects — building ETL pipelines and data solutions."
 
   # Education
   education:
-    enable: false
+    enable: true
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Ph.D. Candidate in Technology (Information & Communication Systems)"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "Universidade Estadual de Campinas (Unicamp)"
+          url: "https://www.unicamp.br/"
+        date: "2026 - Present"
+        content: "Research in data visualization and machine learning."
+      - title: "MSc in Technology (Information & Communication Systems)"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          name: "Universidade Estadual de Campinas (Unicamp)"
+          url: "https://www.unicamp.br/"
+        date: "2023 - 2025"
+        content: "Feature selection, multimodal machine learning, natural computation and bio-inspired algorithms."
+      - title: "Postgraduate Degree in Data Architecture"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "PUC Minas"
+          url: "https://www.pucminas.br/"
+      - title: "MBA in Data Engineering"
+        school:
+          name: "Polytechnic School of UFRJ"
+          url: "https://www.poli.ufrj.br/"
+        date: "2022 - 2023"
+      - title: "Technologist in Systems Analysis and Development"
+        school:
+          name: "Federal Institute of São Paulo (IFSP)"
+          url: "https://www.ifsp.edu.br/"
+        date: "2019 - 2021"
 
   # Achievements
   achievements:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "Certifications & Publications"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: "AWS Certified Solutions Architect – Associate"
+        content: "Amazon Web Services"
+      - title: "Microsoft Certified: Azure Data Fundamentals"
+        content: "Microsoft"
+      - title: "Microsoft Certified: Azure AI Fundamentals"
+        content: "Microsoft"
+      - title: "Microsoft Certified: Azure Fundamentals"
+        content: "Microsoft"
+      - title: "Databricks Lakehouse Fundamentals"
+        content: "Academy Accreditation — Databricks"
+      - title: "Bio-inspired Feature Selection in Multimodal Machine Learning Applied in the Healthcare Domain: A Systematic Review"
+        content: "Publication — systematic review on multimodal ML in healthcare."
+      - title: "Feature Selection with Evolutionary and Swarm Algorithms for Multimodal Learning on a Synthetic Dataset"
+        content: "Publication — multimodal learning and natural computation."
+      - title: "Aplicação de princípios de Data Mesh em modelos organizacionais"
+        content: "Publication — Data Mesh applied to organizational models."
+      - title: "Pentaho, Airflow e Python: avaliação de ferramentas para criação de pipeline de dados"
+        content: "Publication — evaluation of data pipeline tools."
+      - title: "O uso da Internet na campanha eleitoral de 2010"
+        content: "Publication — political communication and social science."
 
   # projects
   projects:
